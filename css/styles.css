@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    background-image: linear-gradient(to bottom,black,rgb(16, 16, 90));
+}
+
+nav {
+    float: right;
+}
+
+h1 {
+   color: purple;    
+}
+
+p {
+    color: aqua;
+}
+
+main {
+    clear: both;
+    color:blueviolet;
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #036b87;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  footer {
+    color:aqua;
+  }
